@@ -1,5 +1,5 @@
 export default {
-    SITE_NAME: "Movies",
-    API_URL: 'https://api.ripper.lol',
-    TMDB_IMAGE_URL: 'https://image.tmdb.org/t/p',
+    SITE_NAME: "باونتد موویز",
+    API_URL: 'https://streamapi.irn.workers.dev',
+    TMDB_IMAGE_URL: 'https://tmdb.irn.workers.dev/t/p',
 }
